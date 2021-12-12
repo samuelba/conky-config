@@ -34,3 +34,7 @@ Symlink to `~/.conkyrc`
 ```
 ln -s conky.conf ~/.conkyrc
 ```
+
+## How it looks
+
+![Screenshot](screenshot.png)
